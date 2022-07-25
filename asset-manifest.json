@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ModalReact--2022/static/css/main.8852e599.css",
-    "main.js": "/ModalReact--2022/static/js/main.9c2c2ac8.js",
+    "main.css": "/ModalReact--2022/static/css/main.5ae8925a.css",
+    "main.js": "/ModalReact--2022/static/js/main.7017eb20.js",
     "static/js/787.82d73845.chunk.js": "/ModalReact--2022/static/js/787.82d73845.chunk.js",
     "index.html": "/ModalReact--2022/index.html",
-    "main.8852e599.css.map": "/ModalReact--2022/static/css/main.8852e599.css.map",
-    "main.9c2c2ac8.js.map": "/ModalReact--2022/static/js/main.9c2c2ac8.js.map",
+    "main.5ae8925a.css.map": "/ModalReact--2022/static/css/main.5ae8925a.css.map",
+    "main.7017eb20.js.map": "/ModalReact--2022/static/js/main.7017eb20.js.map",
     "787.82d73845.chunk.js.map": "/ModalReact--2022/static/js/787.82d73845.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8852e599.css",
-    "static/js/main.9c2c2ac8.js"
+    "static/css/main.5ae8925a.css",
+    "static/js/main.7017eb20.js"
   ]
 }
