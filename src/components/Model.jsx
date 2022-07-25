@@ -5,7 +5,7 @@ function Model({ open, handleClose }) {
 
   return (
     <div className="box">
-      <div className="Model">
+      <div className="model">
         <h2>Your content</h2>
         <button onClick={handleClose}> X </button>
       </div>

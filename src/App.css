@@ -1,33 +1,57 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+  'Lucida Grande',
+   'Lucida Sans', Arial, sans-serif;
+}
+.App {
+  text-align: center;
+  padding: 20px;
+}
+h3 {
+  padding: 10px 0 20px;
 }
 
-.Model{
+.model {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 200px;
-  height: 100px;
-  background: red;
-  transition:  0.9s;
+  width: 280px;
+  height: 70px;
+  position: relative;
+  background: #fff;
 }
 .Model h2 {
   margin-right: 30px;
 }
-.box{
+.box {
   width: 100%;
   height: 100vh;
-  background: #D3d3d4;
+  background: #d3d3d4;
   display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
   align-items: center;
   justify-content: center;
-  transition:  0.9s;
-
 }
 
-button {
+.model > button {
   cursor: pointer;
-  padding: 5px 10px;
+  font-weight: 900;
+  border-radius: 50%;
+   display: flex;
+   justify-content: center;
+  width: 30px;
+  height: 30px;
+  border: 0;
+  position: absolute;
+  top: 6px;
+  right: 6px;
+}
+button{
+  padding: 8px 15px;
 }

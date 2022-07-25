@@ -14,8 +14,9 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={handleToggle}>add modal</button>
-
+      <h1>Hello CodeSandbox</h1>
+      <h3>Edit to see some magic happen!</h3>
+      <button onClick={handleToggle}>Open simple modal</button>
       <Model open={open} handleClose={handleClose}></Model>
     </div>
   );
